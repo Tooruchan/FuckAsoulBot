@@ -1,0 +1,2 @@
+# FuckAsoulBot
+一个基于字符串查找和关键词匹配的自动杀某饭圈发病小鬼bot/userbot的Python实现
