@@ -12,7 +12,7 @@ blocklist = ['嘉人', '嘉然', '嘉心糖', "晚晚", "向晚", "珈乐", "孩
              "超级嘉贝","戴安娜","蒂娜","羊驼","驼子","星瞳","小星星","乃琳","小海梓","乃贝","vup","vtuber","VirtuaReal","嘉门","花门",
              "艾因","琉绮","一果","物述有栖","莉泽·赫露艾斯塔","绿仙","TNO","量子少年","慕宇","陈睿","010","烧鸡","静静子","静阿姨",
              "静将军","静指导","窝瓜","静女妖","吱吱","小粒Q","阿草","AvA","贝极星","勇敢牛牛","绝绝子","决明子","皇珈骑士",
-             "Eileen","beela","kira","坏女人","超级敏感","Hopeful Dreamer","Secret Player","Shiny Dancer","顶碗人","音乐珈","奶淇琳"]
+             "Eileen","bella","kira","坏女人","超级敏感","Hopeful Dreamer","Secret Player","Shiny Dancer","顶碗人","音乐珈","奶淇琳"]
 
 
 @app.on_message(filters.group & filters.text)
